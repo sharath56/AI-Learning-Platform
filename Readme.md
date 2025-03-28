@@ -62,7 +62,8 @@ docker-compose up
 - Face expression recognition for better engagement tracking.
 
 ## Author
-Your Name
+Sharath VN
+
 
 ## License
 MIT License
